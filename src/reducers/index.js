@@ -4,7 +4,9 @@ const songsReducer = () => {
   return [
     { title: "Octavarium", duration: "30:32" },
     { title: "Pull me under", duration: "15:12" },
-    { title: "Metropoplis", duration: "12: 54" },
+    { title: "Metropolis", duration: "12: 54" },
+    { title: "Under a glass moon", duration: "7:32" },
+    { title: "Erotomania", duration: "9:53" },
   ];
 };
 
