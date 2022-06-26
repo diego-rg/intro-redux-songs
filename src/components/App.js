@@ -5,7 +5,7 @@ import SongList from "./SongList";
 
 const App = () => {
   return (
-    <div>
+    <div className="bg-red-500">
       <SongList></SongList>
     </div>
   );

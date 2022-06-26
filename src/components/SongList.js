@@ -5,7 +5,7 @@ class SongList extends Component {
   renderList() {
     return this.props.songs.map((song) => {
       return (
-        <div key={song.title}>
+        <div className="flex" key={song.title}>
           <div>
             <div>Select</div>
           </div>
