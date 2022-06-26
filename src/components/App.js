@@ -1,3 +1,4 @@
+//Hooks ciclo de vida e estado de componente. Redux estado general centralizado da APP
 import React from "react";
 
 import SongList from "./SongList";
