@@ -1,7 +1,5 @@
 import { combineReducers } from "redux";
 
-import "../index.css";
-
 const songsReducer = () => {
   return [
     { title: "Octavarium", duration: "30:32" },
