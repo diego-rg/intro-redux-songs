@@ -5,7 +5,7 @@ import SongList from "./SongList";
 
 const App = () => {
   return (
-    <div className="bg-red-500">
+    <div className="flex justify-center items-center min-w-full min-h-screen bg-indigo-700">
       <SongList></SongList>
     </div>
   );
